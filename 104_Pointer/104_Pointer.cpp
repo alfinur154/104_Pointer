@@ -19,4 +19,6 @@ int main() {
 
 	mahasiswa* pmhs = &mhs;
 	pMhs - .nim = 3;
+	mhs.showNim();
+	return 0;
 }
