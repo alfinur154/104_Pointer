@@ -2,9 +2,16 @@
 using namespace std;
 
 class mahasiswa {
-	public;
+	public:
 	int nim;
 	void showNim() {
-		cout<<"No Induk " << nim << endl
+		cout << "No Induk " << nim << endl;
 	}
 };
+
+int main() {
+	mahasiswa mhs{1}; // object mhs
+	mhs.showNim(); // member Acces Operator
+
+
+}
