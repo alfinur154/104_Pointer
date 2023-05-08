@@ -10,5 +10,6 @@ class mahasiswa {
 };
 
 int main() {
-	mahasiswa *
+	mahasiswa* mhs = new mahasiwa{ 1 };
+
 }
